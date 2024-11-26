@@ -11,4 +11,4 @@ This repository contains the codes for all the assignments and relevant files fo
 - **Assignment 7:** Joint PDF and 2 Discrete Random Variables
 - **Assignment 8:** Correlation and Covariance of Random variables
 - **Assignment 9:** Dimentionality Reduction using PCA
-- **Assignment 10:** Data Narritive on ATP Player rankings (Badminton)
+- **Assignment 10:** Data Narrative on ATP Tennis Match Trends
