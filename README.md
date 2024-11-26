@@ -1,4 +1,4 @@
-# ES 114 Data Narratives and Assignments (Spring '24)
+# ES 114: Probability, Statistics and Data Visualization (Spring '24)
 
 This repository contains the codes for all the assignments and relevant files for the course ES 114: Probability, Statistics and Data Visualization Spring-2024 taught by Prof. Shanmuganathan Raman at IITGN. Below are the assignments for the course, with direct links to the respective Jupyter notebook files.
 
@@ -38,8 +38,8 @@ This repository contains the codes for all the assignments and relevant files fo
 
 1. **Clone the Repository:**
    ```bash
-   https://github.com/ShardulJunagade/ES-114-Data-Narratives-and-Assignments-Spring-24.git
-   cd ES-114-Data-Narratives-and-Assignments-Spring-24
+   git clone https://github.com/ShardulJunagade/ES114-Probability-Statistics-and-Data-Visualization-Spring-24.git
+   cd ES114-Probability-Statistics-and-Data-Visualization-Spring-24
    ```
 
 2. **Install Dependencies:** 
